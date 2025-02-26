@@ -9,9 +9,10 @@ import javax.swing.JLabel;
 
 public class VitaliiHavranGUIGIT extends JFrame { 
     public VitaliiHavranGUIGIT() { 
-        JLabel lblSaludo = new JLabel("Hola Mundo.");
-        JLabel lblSaludo2 = new JLabel("¿Qué tal estás?");
-        JLabel lblSaludo3 = new JLabel("¡Bienvenidos a la rama RAMA1!");
+        JLabel lblSaludo = new JLabel("¡Hola desde GitHub!");
+        JLabel lblSaludo2 = new JLabel("¿Cómo estás?");
+        JLabel lblSaludo3 = new JLabel("¡Bienvenidos a mi primer commit!");
+
        
        
         lblSaludo.setBounds(2, 28, 116, 24); 
